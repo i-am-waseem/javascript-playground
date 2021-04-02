@@ -1,0 +1,5 @@
+comments/node_modules
+eventbus/node_modules
+main_api/node_modules
+posts/node_modules
+.DS_Store
